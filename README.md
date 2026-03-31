@@ -61,19 +61,5 @@
     * Google Drive (backup): [Google Drive](https://drive.google.com/drive/folders/1FNEojdlB4bYaEr3I6NwHy17KAHsX_UvV)
 
 ---
-
-## 🌟 Nhóm chúng mình
-
-| Role                          | Contributor(s)                                                                                                                                                                                                     |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **🗄️ Thiết kế, chạy và tối ưu mô hình** |           [Do Binh Minh](https://github.com/dobinhminh06)                                                                                                                                                                  |
-| **🧹 Xử lý và làm sạch dữ liệu**  | [Do Binh Minh](https://github.com/dobinhminh06)                                                                                                                                                                                           |
-| **🔍 Data Discovery**         | [Do Binh Minh](https://github.com/dobinhminh06)                                                                                                                                                                                             |
-| **✨ Feature Engineering**    | [Do Binh Minh](https://github.com/dobinhminh06)                                                                                                                                                                                           |
-| **📊 Data Visualization**       | [Do Binh Minh](https://github.com/dobinhminh06)                                                                                                                                                                                           |
-| **⚙️ Thiết kế hệ thống**       | [Do Binh Minh](https://github.com/dobinhminh06)                                                                                                                                                                                           |
-| **📝 Tổng hợp và báo cáo**    | [Do Binh Minh](https://github.com/dobinhminh06)                                                                                |
-
-
 Cảm ơn và xin được ghi nhận tất cả góp ý từ các bạn!
 
